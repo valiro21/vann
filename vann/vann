@@ -1,0 +1,7 @@
+#include "vann.h"
+#include "vann_data.cpp"
+#include "vann_base.cpp"
+#include "vann_function.cpp"
+#include "vann_learn.cpp"
+#include "vann_set.cpp"
+#include "vann_assert.cpp"

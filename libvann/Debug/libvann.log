@@ -1,0 +1,28 @@
+﻿  vann_set.cpp
+  vann_learn.cpp
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_learn.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_learn.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_learn.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_learn.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_learn.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_learn.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_learn.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_learn.cpp(125): warning C4018: '<': signed/unsigned mismatch
+  vann_function.cpp
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_function.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_function.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_function.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  vann_data.cpp
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_data.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_data.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_data.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  vann_base.cpp
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_base.cpp(64): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_base.cpp(131): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_base.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_base.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  vann_assert.cpp
+  Generating Code...
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_function.cpp(18): warning C4715: 'vann::activation_function': not all control paths return a value
+c:\users\valir\dropbox\fun\artificial inteligence\vann_projects\libvann\vann_function.cpp(28): warning C4715: 'vann::activation_function_derivative': not all control paths return a value
+  libvann.vcxproj -> C:\Users\valir\Dropbox\Fun\Artificial Inteligence\vann_Projects\Debug\libvann.lib
